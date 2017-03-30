@@ -5,6 +5,9 @@
         "psr-4": {
             "mathsgod\\test\\":"src/test"
         }
+    },
+    "require": {
+        "php":">=5.4"
     }
-        
+            
 }
