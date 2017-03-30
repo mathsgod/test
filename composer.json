@@ -1,0 +1,10 @@
+{
+    "name":"mathsgod/test",
+    "description": "composer test",
+    "autoload": {
+        "psr-4": {
+            "mathsgod\\test\\":"src/test"
+        }
+    }
+        
+}
